@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{35375BB0-1B97-AE98-CADB-B9A1C0D344AB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameController.cs">
+    <Files>
+      <File FileName="Assets/CarController.cs" Line="245" Column="9" />
+      <File FileName="Assets/GameController.cs" Line="9" Column="17" />
+      <File FileName="Assets/IntersectionObj.cs" Line="24" Column="6" />
+      <File FileName="Assets/TrafficLightController.cs" Line="39" Column="35" />
+      <File FileName="Assets/StayController.cs" Line="101" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
